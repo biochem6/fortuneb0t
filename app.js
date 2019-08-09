@@ -12,7 +12,7 @@ const options = {
     },
     identity: {
         username: "fortuneb0t",
-        password: "oauth:ibxu99jq1agxkydex1dj2now4vufoq"
+        password: ""
     },
     channels: ["fortuneb0t", "phoodd"]
 };
