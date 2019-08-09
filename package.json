@@ -1,0 +1,17 @@
+{
+  "name": "twitch_app",
+  "version": "1.0.0",
+  "description": "Twitch Bot ",
+  "main": "app.js",
+  "scripts": {   
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Ashland",
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "^2.0.1-beta",
+    "node-fetch": "^2.3.0",
+    "tmi.js": "^1.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
